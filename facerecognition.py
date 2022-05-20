@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import numpy as np
 import transforms3d
-from mefamo.custom.face_geometry import (  # isort:skip
+from vtube.MeFaMo.mefamo.custom.face_geometry import (  # isort:skip
     PCF,
     get_metric_landmarks,
     procrustes_landmark_basis,

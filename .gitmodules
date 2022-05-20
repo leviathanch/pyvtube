@@ -1,0 +1,3 @@
+[submodule "MeFaMo"]
+	path = MeFaMo
+	url = https://github.com/JimWest/MeFaMo
