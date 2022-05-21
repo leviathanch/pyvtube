@@ -1,7 +1,7 @@
 # Python VTube solution
 
 This is a Python package which allows you to take your WebCam and use OpenCV
-in order to do motion capture and project your facial expressions onto a blender
+in order to do motion capture and project your facial expressions onto a Blender model
 which is being converted into a Panda3D egg file.
 
 ## Execution
