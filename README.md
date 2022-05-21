@@ -6,11 +6,18 @@ which is being converted into a Panda3D egg file.
 
 ## Execution
 
-Execution from within this folder goes like that
+Execution from within this folder goes like that:
+
 python3.8 -m vtube ..
 
-If you're in the above folder, just drop the ..
+If you're in the above folder, just drop the ".."
+
 python3.8 -m vtube
+
+## Dependencies
+
+I'll probably add a full requirements.txt sooner or later, for now just hunt the deps
+down with pip install ;-)
 
 ## Disclaimer
 
